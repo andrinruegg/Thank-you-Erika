@@ -16,7 +16,7 @@ export const TRANSLATIONS: Translations = {
 
     familyTitle: "The Greatest Gift: Your Family",
     alexiaTitle: "My Love, Alexia",
-    alexiaDesc: "Thank you for raising Alexia. She is the light of my life. Being in her presence here in the home she grew up in made me fall in love with her even more. I thank Jesus for bringing her into my life.",
+    alexiaDesc: "Thank you for raising Alexia. She brings so much joy to my heart. Being in her presence here in the home she grew up in made me fall in love with her even more. I thank Jesus for bringing her into my life.",
     didiTitle: "Didi (Diana)",
     didiDesc: "Didi brings so much life and energy to the house. It was a joy to spend time with her and see the beautiful bond between sisters. God has truly blessed this family.",
 
@@ -41,7 +41,7 @@ export const TRANSLATIONS: Translations = {
 
     familyTitle: "Cel Mai Mare Dar: Familia Dumneavoastră",
     alexiaTitle: "Iubirea Mea, Alexia",
-    alexiaDesc: "Vă mulțumesc că ați crescut-o pe Alexia. Este lumina vieții mele. Să fiu în prezența ei aici în casa în care a crescut m-a făcut să o iubesc și mai mult. Îi mulțumesc lui Iisus că a adus-o în viața mea.",
+    alexiaDesc: "Vă mulțumesc că ați crescut-o pe Alexia. Ea aduce atâta bucurie în inima mea. Să fiu în prezența ei aici în casa în care a crescut m-a făcut să o iubesc și mai mult. Îi mulțumesc lui Iisus că a adus-o în viața mea.",
     didiTitle: "Didi (Diana)",
     didiDesc: "Didi aduce atâta viață și energie în casă. A fost o bucurie să petrec timp cu ea și să văd legătura frumoasă dintre surori. Dumnezeu a binecuvântat cu adevărat această familie.",
 
